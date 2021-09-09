@@ -42,10 +42,6 @@ select user, plugin from user;
 flush privileges;
 
 
-
-https://www.youtube.com/watch?v=YggXN_xJKbs
-
-
 -----------------------------------------
 
 
